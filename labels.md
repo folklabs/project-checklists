@@ -27,6 +27,7 @@ These issues are maybe the most useful since they relate to the type or category
 * content
 * theming
 * site-building
+* performance
 * ui-text
 * question
 * accessibility

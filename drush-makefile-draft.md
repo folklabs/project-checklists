@@ -10,9 +10,8 @@ This draft file sketches out how we might build a drush makefile to setup all th
 * Is it possible to automate getting this initial build into Git and then onto Pantheon using the terminal?
 
 ### Modules
-* Add vital base modules
+* Add vital base modules: Views, Rules, Token, 
 * Add fixes to base modules
-* 
 
 ### Users
 All configuration relating to users and profiles
@@ -33,7 +32,8 @@ It's tough to style and construct a site with no content in it so we should aim 
 
 ### Site configuration
 * Apply standard settings and confirmations
-- backup settings
-- security
-- theme and appearance settings
-Apply fixes to known issues
+  * backup settings
+  * & run an initial backup
+  * security
+  * run a cron job
+* Apply fixes and patches to known issues

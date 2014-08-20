@@ -6,27 +6,32 @@ Github issue queue labelling allows issues to be sorted based on a variety of fa
 Use this list to set up new repo label lists:
 
 **PRIORITY** (full strength)
+Use these labels to indicate which issues are most critical to the success of the project and which are of lesser importance
 
 * critical (red)
-* major ()
-* normal
-* minor
+* major (orange)
+* normal (warm yellow)
+* minor (pale yellow)
 
 **CATEGORY** (warm pastels)
+These issues are maybe the most useful since they relate to the type or category of issue being reported
 
-* bug
-* theming
-* interface-text
-* question
 * story
-* task
-* idea
 * feature
-* help-request
+* idea
+* bug
+* blocker
+* task
+* support
 * documentation
 * content
+* theming
+* ui-text
+* question
+* accessibility
 
 **SUB-PROJECT** (cold tints)
+Use these labels to tag issues as relating to certain sub-projects of the main project or relating to libraries and imported frameworks
 
 * vizbuilder
 * drupal-issue

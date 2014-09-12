@@ -24,6 +24,7 @@ This draft file sketches out how we might build a drush makefile to setup all th
     * google_analytics - https://www.drupal.org/project/google_analytics
     * responsive_menus - https://www.drupal.org/project/responsive_menus
     * adminimal_admin_menu - https://www.drupal.org/project/adminimal_admin_menu
+    * admin_views - https://www.drupal.org/project/admin_views
 
 #### Admin theme
     * https://www.drupal.org/project/adminimal_admin_menu

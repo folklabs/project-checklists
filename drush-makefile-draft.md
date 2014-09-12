@@ -11,6 +11,8 @@ This draft file sketches out how we might build a drush makefile to setup all th
 
 #### Global modules
 * Add vital base modules:
+    * admin https://www.drupal.org/project/admin
+    * *OR* admin_menu https://www.drupal.org/project/admin_menu *PLUS* 
     * views - https://www.drupal.org/project/views
     * rules - https://www.drupal.org/project/rules
     * token - https://www.drupal.org/project/token
@@ -18,7 +20,14 @@ This draft file sketches out how we might build a drush makefile to setup all th
     * iicture - https://www.drupal.org/project/picture
     * breakpoints - https://www.drupal.org/project/
     * insert - https://www.drupal.org/project/insert
-    * 
+    * module_filter - https://www.drupal.org/project/module_filter
+    * google_analytics - https://www.drupal.org/project/google_analytics
+    * responsive_menus - https://www.drupal.org/project/responsive_menus
+    * adminimal_admin_menu - https://www.drupal.org/project/adminimal_admin_menu
+
+#### Admin theme
+    * https://www.drupal.org/project/adminimal_admin_menu
+
 * Apply fixes to base modules
 
 #### Users

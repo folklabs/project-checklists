@@ -9,14 +9,27 @@ This draft file sketches out how we might build a drush makefile to setup all th
 * Set up a database with strong passwords
 * Is it possible to automate getting this initial build into Git and then onto Pantheon using the terminal?
 
-#### Modules
-* Add vital base modules: Views, Rules, Token, 
-* Add fixes to base modules
+#### Global modules
+* Add vital base modules:
+    * views - https://www.drupal.org/project/views
+    * rules - https://www.drupal.org/project/rules
+    * token - https://www.drupal.org/project/token
+    * eu_cookie_compliance - https://www.drupal.org/project/eu_cookie_compliance
+    * iicture - https://www.drupal.org/project/picture
+    * breakpoints - https://www.drupal.org/project/
+    * insert - https://www.drupal.org/project/insert
+    * 
+* Apply fixes to base modules
 
 #### Users
 All configuration relating to users and profiles
-* Configure a base group of users
-* Pull a base set of user profile images and add them to the user profiles
+* Configure a base set of user types:
+    * Authenticated user
+    * Author
+    * Editor / Community Manager
+    * Administrator (as opposed to User-1)
+* Create a sets of 5 users of each user type
+* Upload a set of user profile images and add them to the user profiles
 
 #### Content provisioning
 It's tough to style and construct a site with no content in it so we should aim to get real content into the site as early as possible

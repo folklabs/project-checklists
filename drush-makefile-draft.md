@@ -25,9 +25,16 @@ This draft file sketches out how we might build a drush makefile to setup all th
     * responsive_menus - https://www.drupal.org/project/responsive_menus
     * adminimal_admin_menu - https://www.drupal.org/project/adminimal_admin_menu
     * admin_views - https://www.drupal.org/project/admin_views
+    * fpa - https://www.drupal.org/project/fpa
+    * environment_indicator - https://www.drupal.org/project/environment_indicator
+    * nodeblock - https://www.drupal.org/project/nodeblock
+    * ccl - https://www.drupal.org/project/ccl
+    * linkchecker - https://www.drupal.org/project/linkchecker
+    * linkit - https://www.drupal.org/project/linkit
 
 #### Admin theme
-    * https://www.drupal.org/project/adminimal_admin_menu
+    * adminimal_admin_menu https://www.drupal.org/project/adminimal_admin_menu
+    * adminimal_theme - https://www.drupal.org/project/adminimal_theme
 
 * Apply fixes to base modules
 
